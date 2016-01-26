@@ -5,7 +5,8 @@
 ## Build generated
 build/
 DerivedData
-
+Pods/
+baseProject_Obc.xcworkspace
 ## Various settings
 *.pbxuser
 !default.pbxuser
