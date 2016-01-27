@@ -1,4 +1,6 @@
-source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '8.0'
+workspace 'baseProject_Obc'
 
+platform :ios, '8.0'
 pod 'AFNetworking', '~> 3.0'
+
+pod 'SDWebImage', '~>3.7'
